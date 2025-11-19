@@ -131,15 +131,6 @@ Want to see your name here? [Start contributing today!](CONTRIBUTING.md)
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/aurenza/aurenza-core?style=social)
-![GitHub forks](https://img.shields.io/github/forks/aurenza/aurenza-core?style=social)
-![GitHub issues](https://img.shields.io/github/issues/aurenza/aurenza-core)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/aurenza/aurenza-core)
-
----
-
 <div align="center">
 
 **Aurenza Core isn't just a codebase — it's a movement to make healthcare technology open, ethical, and accessible for everyone.**
