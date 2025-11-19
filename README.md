@@ -39,28 +39,6 @@ Aurenza Core serves as the **open backbone** for this innovation, combining open
 
 ---
 
-## 🚀 Quick Start
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/aurenza/aurenza-core.git
-cd aurenza-core
-
-# Install dependencies
-npm install
-# or
-pip install -r requirements.txt
-
-# Run the development server
-npm run dev
-# or
-python main.py
-```
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -84,7 +62,7 @@ We welcome contributors of all backgrounds — developers, designers, researcher
 1. **Fork** this repository
 2. **Clone** your fork
    ```bash
-   git clone https://github.com/<your-username>/aurenza-core.git
+   git clone https://github.com/AurenzaLabs/Aurenza-core.git
    cd aurenza-core
    ```
 3. **Create a branch** for your feature
@@ -120,48 +98,7 @@ Join our growing community and connect with fellow builders:
 
 - **💬 [Discord](https://discord.gg/T7A28baADX)** — Real-time chat and collaboration
 - **📖 GitHub Discussions** — Long-form conversations and Q&A
-- **🐦 Twitter** — Follow [@aurenzacore](https://twitter.com/aurenzacore) for updates
-- **📧 Email** — contact@aurenza.org
-
----
-
-## 📖 Documentation
-
-- [Getting Started Guide](docs/getting-started/)
-- [API Reference](docs/api-reference/)
-- [Architecture Overview](docs/architecture.md)
-- [Best Practices](docs/best-practices.md)
-- [FAQ](docs/faq.md)
-
----
-
-## 🗺️ Roadmap
-
-### Current Phase: Foundation (Q1-Q2 2025)
-
-- [x] Initial repository setup
-- [x] Core modular framework
-- [ ] First community-built prototype
-- [ ] Comprehensive documentation
-- [ ] Testing infrastructure
-
-### Next Phase: Expansion (Q3-Q4 2025)
-
-- [ ] Hosted API / SDK layer
-- [ ] Plugin marketplace
-- [ ] Mobile SDK support
-- [ ] Integration templates
-- [ ] Open governance model
-
-### Future Vision
-
-- [ ] Certification programs
-- [ ] Partner ecosystem
-- [ ] Annual community conference
-- [ ] Grant programs for contributors
-
-**See our [full roadmap](docs/roadmap.md) for more details.**
-
+  
 ---
 
 ## ⚖️ License
