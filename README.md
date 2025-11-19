@@ -60,7 +60,7 @@ We welcome contributors of all backgrounds — developers, designers, researcher
 Please read our CONTRIBUTING.md before submitting pull requests, and follow our CODE_OF_CONDUCT.md to help us maintain a positive and inclusive environment.
 ## 💬 Community & Communication
 Join our growing community:
-Discord: 
+Discord: https://discord.gg/T7A28baADX
 GitHub Discussions: Coming soon
 Share ideas, ask questions, and find collaborators.
 ## ⚖️ License
