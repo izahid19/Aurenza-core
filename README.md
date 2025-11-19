@@ -66,16 +66,7 @@ python main.py
 ```
 aurenza-core/
 ├── src/              # Core codebase
-│   ├── modules/      # Modular components
-│   ├── api/          # API layer
-│   └── utils/        # Shared utilities
 ├── docs/             # Documentation and guides
-│   ├── getting-started/
-│   ├── api-reference/
-│   └── tutorials/
-├── examples/         # Example implementations
-├── tests/            # Test suites
-├── .github/          # GitHub workflows and templates
 ├── LICENSE
 ├── README.md
 ├── CONTRIBUTING.md
