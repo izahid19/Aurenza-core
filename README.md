@@ -41,11 +41,6 @@ Aurenza Core serves as the **open backbone** for this innovation, combining open
 
 ## 🚀 Quick Start
 
-### Prerequisites
-
-- Node.js 18+ or Python 3.9+
-- Git
-
 ### Installation
 
 ```bash
