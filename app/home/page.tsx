@@ -1,8 +1,16 @@
+// import styles from "../../styles/home.module.css";
+import HomeContent from "./homeContent";
 
-export default function HomePage(){
-    return (
-        <div className="min-h-screen bg-background text-foreground p-8">
-            <h1 className="text-2xl font-bold mt-5 mb-5 text-red-500">Hello home</h1>
-        </div>
-    );
+export default function HomePage() {
+  return (
+    <div
+      style={{
+        background: "url(../../home-background.png)",
+        backgroundSize: "cover",
+      }}
+      className={`h-screen bg-cover bg-center bg-no-repeat`}
+    >
+      <HomeContent></HomeContent>
+    </div>
+  );
 }
